@@ -1,2 +1,4 @@
 # Travel4Brews
-Travel booking website using html, javascript and css 
+This is a simple basic website on tours & travels.
+
+https://ishangoyal13.github.io/Travel4Brews/
